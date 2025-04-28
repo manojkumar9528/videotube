@@ -119,9 +119,9 @@ Ensure that the MongoDB server is running, and the connection string is correctl
 
 ### Acknowledgements
 
-Special thanks to [@hiteshchoudhary](https://github.com/hiteshchoudhary)
+
 
 ### Author
-[Subhajit Pramanik](https://github.com/subho-1011)
+[Manoj kumar](https://github.com/manojkumar9528)
 
-Feel free to explore and contribute to the VideoTube Backend project. Happy coding! 🚀
+
