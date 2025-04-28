@@ -37,7 +37,7 @@ npm i
 
 #### 4. Set up your environment variables by creating a .env file based on the provided .env.example. 
 ```
-PORT=8080
+PORT=5000
 MONGODB_URI="Your mongodb uri"
 CORS_ORIGIN=*
 
